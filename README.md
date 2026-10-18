@@ -1,21 +1,16 @@
 # Lunar Canyon: Monorepo · Vercel
 
-> **This is a template, not a repository.** Copy it out and prepare it before an eval (steps below).
-> Nothing here is deployed.
-
 A monorepo with three apps on **Vercel**, with preview links **public**. Static Vite +
 TypeScript, no framework. The page reads a live list from the shared Supabase test project.
 Row in the support matrix: impeccable-reviews#302.
 
 ## Deployment links
 
-Filled in at prep time.
-
 | App | Folder | Production | Preview gate |
 |---|---|---|---|
-| finch-lk3 | `apps/finch-lk3` | _not deployed_ | no |
-| fern-qul | `apps/fern-qul` | _not deployed_ | no |
-| basil-ibn | `apps/basil-ibn` | _not deployed_ | no |
+| finch-lk3 | `apps/finch-lk3` | https://lunar-canyon-cy2d-finch-lk3.vercel.app | no |
+| fern-qul | `apps/fern-qul` | https://lunar-canyon-cy2d-fern-qul.vercel.app | no |
+| basil-ibn | `apps/basil-ibn` | https://lunar-canyon-cy2d-basil-ibn.vercel.app | no |
 
 ## Names
 
